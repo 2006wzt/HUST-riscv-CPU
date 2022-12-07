@@ -22,7 +22,7 @@
 >
 > ⑨ 团队任务：基于单级中断的2048游戏
 
-`Teamwork_code_rom` 包含的内容如下：
+- `Teamwork_code_rom` 包含的内容如下：
 
 > ① 2048游戏riscv源码
 >
