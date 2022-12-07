@@ -28,9 +28,9 @@
 >
 > ② LED译码器ROM存储内容
 
-- Verilog_FPGA：verilog、constraint_file
+- Verilog：verilog_codes、constraint_file
 
-其中 `verilog` 包含的内容如下：
+其中 `verilog_codes` 包含的内容如下：
 
 > ① CPU：单周期CPU顶层模块
 >
